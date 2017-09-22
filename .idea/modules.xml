@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reece-addressbook-api.iml" filepath="$PROJECT_DIR$/reece-addressbook-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reece-addressbook-domain/reece-addressbook-domain.iml" filepath="$PROJECT_DIR$/reece-addressbook-domain/reece-addressbook-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reece-addressbook-service/reece-addressbook-service.iml" filepath="$PROJECT_DIR$/reece-addressbook-service/reece-addressbook-service.iml" />
+    </modules>
+  </component>
+</project>
